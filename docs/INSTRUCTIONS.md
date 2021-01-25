@@ -36,18 +36,30 @@ Hieronder vind je een aantal bronnen en resources die je kunt gebruiken bij het 
 - [Chrome Dev Tools Elements Tab @ YouTube](https://www.youtube.com/watch?v=Z3HGJsNLQ1E)
 
 ## Werkwijze
-Dit is een *uitbreidings*-taak wat inhoudt dat je het visitekaartje uitbreidt met content, vormgeving en/of interactie. 
 
 
-1. Bedenk welke content je wil toevoegen.
+## Werkwijze
+Instructies over hoe te werk gaan, aan de hand van de development lifecycle. Dit is een *uitbreidings*-taak wat inhoudt dat je het visitekaartje uitbreidt met content, vormgeving en/of interactie. 
 
-2. Vertaal de content, vormgeving en/of interactie naar HTML, CSS en JavaScript in een [breakdownschets](...) (TODO: nog linken).
+### Analyseren
+Bedenk welke content je wil toevoegen. Je kan bijvoorbeeld wat vertellen over je Frontend ervaring en skills, of juist iets over je persoonlijke interesses. 
 
-3. Fork deze repository en clone de code naar je eigen laptop. (zet alvast GitHub Pages aan onder de *Settings* van de repository).
+### Ontwerpen
+Vertaal de content, vormgeving en/of interactie naar HTML, CSS en JavaScript in een [breakdownschets](...) (TODO: nog linken).
 
-4. Open de code in je code editor en voeg de HTML, CSS en/of JavaScript toe aan de reeds bestaande code. Test het resultaat steeds in een browser! Het is handig om bij het testen de Dev Tools aan te zetten. Zie het instructiefilmpje hierboven bij *Tools*. Je kan kleine tweaks doen in de CSS en eventueel kopiëren naar de code in je code editor.
+### Bouwen
+Fork deze repository en clone de code naar je eigen laptop. (zet alvast GitHub Pages aan onder de *Settings* van de repository).
+
+Open de code in je code editor en voeg de HTML, CSS en/of JavaScript toe aan de reeds bestaande code. 
+
+### Integreren
+Als de toegevoegde content, vormgeving en/of interactie in de browser er goed uitziet en goed werkt, kan je de code commiten en pushen naar GitHub. Als je GitHub Pages hebt aangezet kan je het resultaat online bekijken als je de aangegeven link volgt.
+
+### Testen
+Test het resultaat steeds in een browser! Het is handig om bij het testen de Dev Tools aan te zetten. Zie het instructiefilmpje hierboven bij *Tools*. Je kan kleine tweaks doen in de CSS en eventueel kopiëren naar de code in je code editor.
+
 
 ## Criteria
-Als de toegevoegde content, vormgeving en/of interactie in de browser er goed uitzieten goed werkt, kan je de code commiten en pushen naar GitHub. Als je GitHub Pages hebt aangezet kan je het resultaat online bekijken als je de aangegeven link volgt.
+
 
 
