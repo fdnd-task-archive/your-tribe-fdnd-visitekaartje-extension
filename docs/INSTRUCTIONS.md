@@ -7,7 +7,7 @@ Pas het uitgewerkte visistekaartje aan door content (HTML) toe te voegen, het vo
 Om straks in staat te zijn jezelf op een goede manier binnen jouw tribe voor te stellen is het wellicht interessant om wat meer over jezelf te vertellen dan dat wat er al staat. Het uitbreiden van het visitekaartjes sluit mooi aan op de volgende het zelf bedenken, ontwerpen en uitwerken van een visitekaartje in de leertaak [fdnd-net-presence-autonomous](https://github.com/fdnd-task/fdnd-net-presence-autonomous).
 
 ## Briefing
-Volg onderstaande stappen om je visitekaartje uit te breiden met meer informatie en deze nieuwe informatie vorm te geven.
+Volg onderstaande stappen om je visitekaartje uit te breiden met meer informatie en deze nieuwe informatie vorm te geven. Je kan bijvoorbeeld wat vertellen over je Frontend ervaring en skills, of juist iets over je persoonlijke interesses.
 
 ## Doel van deze opdracht
 Na het goed afronden van deze taak, heb je zelf HTML elementen gekozen voor de extra informatie die je hebt toegevoegd. Deze informatie heb je vormgegeven in de stijl van het kaartje. Hiervoor heb je reeds gebruikte CSS properties gebruikt of wellicht nieuwe. Je kan naar wens de vormgeveing naar je eigen hand zetten, of wellicht een micro interaction toevoegen.
