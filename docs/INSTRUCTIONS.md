@@ -41,7 +41,7 @@ Dit is een *uitbreidings*-taak wat inhoudt dat je het visitekaartje uitbreidt me
 
 1. Bedenk welke content je wil toevoegen.
 
-2. Vertaal de content, vormgeving en/of interactie naar HTML, CSS en JavaScript in een [breakdownschets](...).
+2. Vertaal de content, vormgeving en/of interactie naar HTML, CSS en JavaScript in een [breakdownschets](...) (TODO: nog linken).
 
 3. Fork deze repository en clone de code naar je eigen laptop. (zet alvast GitHub Pages aan onder de *Settings* van de repository).
 
