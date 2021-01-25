@@ -1,39 +1,53 @@
-# Task instructions
-<!-- Remove this 👆 in the final task -->
-```
-# Naam
+![Visitekaartje](VisitekaartjeChrome.png "Visitekaartje")
 
-De conventie voor naamgeving is opdrachtgever-opdracht-ondersteuningsniveau
-Topics: opdrachtgever-naam, semester-naam, sprint-naam, niveau-naam
+# Net Presence
+Pas het uitgewerkte visistekaartje aan door content (HTML) toe te voegen, het vorm te geven (met CSS) en/of interactie toe te voegen (met JavaScript). Denk na over wat je nog meer over jezelf wil vertellen naast de informatie die al wordt gepresenteerd. Als extra uitdaging kan je de vormgeving van het visitekaartje aanpassen of de extra informatie bijvoorbeeld 'verbergen' en pas laten verschijnen als je op een (door jou toegevoegde) button klikt Dit kan je oplossen met JavaScript. Probeer het visitekaartje meer van jouzelf te maken!
 
 ## Context
-Beschrijving opdrachtgever en context
+Om straks in staat te zijn jezelf op een goede manier binnen jouw tribe voor te stellen is het wellicht interessant om wat meer over jezelf te vertellen dan dat wat er al staat. Het uitbreiden van het visitekaartjes sluit mooi aan op de volgende het zelf bedenken, ontwerpen en uitwerken van een visitekaartje in de leertaak [fdnd-net-presence-autonomous](https://github.com/fdnd-task/fdnd-net-presence-autonomous).
 
 ## Briefing
-Beschrijving taak
+Volg onderstaande stappen om je visitekaartje uit te breiden met meer informatie en deze nieuwe informatie vorm te geven.[het resultaat alvast in de browser bekijken](https://fdnd-task.github.io/fdnd-net-presence-extension/) 
 
 ## Doel van deze opdracht
-Wat er met de taak moet worden bereikt
+Na het goed afronden van deze taak, heb je zelf HTML elementen gekozen voor de extra informatie die je hebt toegevoegd. Deze informatie heb je vormgegeven in de stijl van het kaartje. Hiervoor heb je reeds gebruikte CSS properties gebruikt of wellicht nieuwe. Je kan naar wens de vormgeveing naar je eigen hand zetten, of wellicht een micro interaction toevoegen.
 
 ## Materiaal
-Bronnen en resources (artikelen, video's, visuals, talks, posters, etc)
+Hieronder vind je een aantal bronnen en resources die je kunt gebruiken bij het grip krijgen op de in dit voorbeeld gebruikte principes.
+
+## Kleur en beeld
+
+## HyperText Markup Language (HTML)
+- [HTML semantics @ YouTube](https://www.youtube.com/watch?v=n9T2B91hHRM)
+- [Overzicht van HTML elementen @ MDN](https://developer.mozilla.org/nl/docs/Web/HTML/Element)
+
+## Cascading StyleSheets (CSS)
+- [CSS Almanac @ CSS-tricks](https://css-tricks.com/almanac/)
+- [A Guide to flexbox @ CSS-tricks](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
+- [What the flexbox? @ Wes Bos](https://flexbox.io/)
+- [CSS Typography - Change Font, Size, Spacing & more @ YouTube](https://www.youtube.com/watch?v=RNakAX3rVVw)
+- [Typography for Developers @ CSS-tricks](https://css-tricks.com/typography-for-developers/)
+- [CSS Transitions and Animations 101 @ YouTube](https://www.youtube.com/watch?v=n9T2B91hHRM)
+
+## Javascript
+- [One thing about JavaScript @ CSS-tricks](https://css-tricks.com/video-screencasts/150-hey-designers-know-one-thing-javascript-recommend/)
+
+## Tools
+- [Chrome Dev Tools Elements Tab @ YouTube](https://www.youtube.com/watch?v=Z3HGJsNLQ1E)
 
 ## Werkwijze
-Instructies over hoe te werk gaan, verder uitgewerkt in [Stappenplan](todo.md)  
-(In meer of mindere mate sturing afhankelijk van het niveau van de taak)
+Dit is een *uitbreidings*-taak wat inhoudt dat je het visitekaartje uitbreidt met content, vormgeving en/of interactie. 
+
+
+1. Bedenk welke content je wil toevoegen.
+
+2. Vertaal de content, vormgeving en/of interactie naar HTML, CSS en JavaScript in een [breakdownschets](...).
+
+3. Fork deze repository en clone de code naar je eigen laptop. (zet alvast GitHub Pages aan onder de *Settings* van de repository).
+
+4. Open de code in je code editor en voeg de HTML, CSS en/of JavaScript toe aan de reeds bestaande code. Test het resultaat steeds in een browser! Het is handig om bij het testen de Dev Tools aan te zetten. Zie het instructiefilmpje hierboven bij *Tools*. Je kan kleine tweaks doen in de CSS en eventueel kopiëren naar de code in je code editor.
 
 ## Criteria
-Definitions of done
-
-## Niveau van deze taak
-
-|   | Scaffolding | Description |
-| ---: | :----   | :--- |
-| a | Example | Uitgewerkt voorbeeld |
-| b | Duplicate | Immitatietaak |
-| c | Experiment | Taak zonder een specifiek doel |
-| d | Extension | Aanvultaak |
-| e | Autonomous | Taak zonder ondersteuning |
-```
+Als de toegevoegde content, vormgeving en/of interactie in de browser er goed uitzieten goed werkt, kan je de code commiten en pushen naar GitHub. Als je GitHub Pages hebt aangezet kan je het resultaat online bekijken als je de aangegeven link volgt.
 
 
