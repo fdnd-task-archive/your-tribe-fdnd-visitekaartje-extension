@@ -1,7 +1,7 @@
 ---
 title: "Visitekaartje"              # Same as repo name but with spaces and caps
 client: "FDND"                      # Name of the client for this task
-description: ""                     # Max. 280 characters in description
+description: "Pas het uitgewerkte visistekaartje aan door content (HTML) toe te voegen, het vorm te geven (met CSS) en/of interactie toe te voegen (met JavaScript). Denk na over wat je nog meer over jezelf wil vertellen naast de informatie die al wordt gepresenteerd. Als extra uitdaging kan je de vormgeving van het visitekaartje aanpassen of de extra informatie bijvoorbeeld 'verbergen' en pas laten verschijnen als je op een (door jou toegevoegde) button klikt Dit kan je oplossen met JavaScript. Probeer het visitekaartje meer van jouzelf te maken!"                     # Max. 280 characters in description
 semester: 1                         # Please choose only one semester
 sprint: 1                           # Please choose only one sprint
 support-level: 4                    # 1:example 2:duplicate 3:experiment 4:extension 5:autonomous
