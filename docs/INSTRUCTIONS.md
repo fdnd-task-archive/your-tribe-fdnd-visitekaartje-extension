@@ -36,9 +36,6 @@ Hieronder vind je een aantal bronnen en resources die je kunt gebruiken bij het 
 - [Chrome Dev Tools Elements Tab @ YouTube](https://www.youtube.com/watch?v=Z3HGJsNLQ1E)
 
 ## Werkwijze
-
-
-## Werkwijze
 Instructies over hoe te werk gaan, aan de hand van de development lifecycle. Dit is een *uitbreidings*-taak wat inhoudt dat je het visitekaartje uitbreidt met content, vormgeving en/of interactie. 
 
 ### Analyseren
