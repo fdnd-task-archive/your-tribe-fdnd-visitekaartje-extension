@@ -42,12 +42,12 @@ Instructies over hoe te werk gaan, aan de hand van de development lifecycle. Dit
 Bedenk welke content je wil toevoegen. Je kan bijvoorbeeld wat vertellen over je Frontend ervaring en skills, of juist iets over je persoonlijke interesses. 
 
 ### Ontwerpen
-Vertaal de content, vormgeving en/of interactie naar HTML, CSS en JavaScript in een [breakdownschets](...) (TODO: nog linken).
+In de workshops typografie en kleurtheorie heb je een en ander geleerd over hoe je content kan vormgeven. Pas dit toe op de door jou toegevoegde content en zorg hierbij ervoor dat dat wat je toevoegt past bij dat wat er al staat.
 
 ### Bouwen
 Fork deze repository en clone de code naar je eigen laptop. (zet alvast GitHub Pages aan onder de *Settings* van de repository).
 
-Open de code in je code editor en voeg de HTML, CSS en/of JavaScript toe aan de reeds bestaande code. 
+Open de code in je code editor en voeg HTML, CSS en/of JavaScript toe aan de reeds bestaande code. 
 
 ### Integreren
 Als de toegevoegde content, vormgeving en/of interactie in de browser er goed uitziet en goed werkt, kan je de code commiten en pushen naar GitHub. Als je GitHub Pages hebt aangezet kan je het resultaat online bekijken als je de aangegeven link volgt.
