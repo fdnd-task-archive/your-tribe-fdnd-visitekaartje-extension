@@ -42,7 +42,7 @@ Instructies over hoe te werk gaan, aan de hand van de development lifecycle. Dit
 Bedenk welke content je wil toevoegen. Je kan bijvoorbeeld wat vertellen over je Frontend ervaring en skills, of juist iets over je persoonlijke interesses. 
 
 ### Ontwerpen
-In de workshops typografie en kleurtheorie heb je een en ander geleerd over hoe je content kan vormgeven. Pas dit toe op de door jou toegevoegde content en zorg hierbij ervoor dat dat wat je toevoegt past bij dat wat er al staat.
+In de workshops [typografie]() en [kleurtheorie]() heb je een en ander geleerd over hoe je content kan vormgeven. Pas dit toe op de door jou toegevoegde content en zorg hierbij ervoor dat dat wat je toevoegt past bij dat wat er al staat.
 
 ### Bouwen
 Fork deze repository en clone de code naar je eigen laptop. (zet alvast GitHub Pages aan onder de *Settings* van de repository).
