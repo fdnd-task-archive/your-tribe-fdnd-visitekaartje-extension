@@ -23,6 +23,10 @@ Hieronder vind je een aantal bronnen en resources die je kunt gebruiken bij het 
 - [Using color to set the site’s mood uit 'Design Aesthetics for the Web'@ LinkedInLearning](https://www.linkedin.com/learning/design-aesthetics-for-the-web/using-color-to-set-the-site-s-mood?contextUrn=urn%3Ali%3AlyndaLearningPath%3A56e050fb3dd5598244f16b21&u=2132228)
 - [Kennisclip over kleur @ DLO](https://dlo.mijnhva.nl/d2l/le/content/302839/viewContent/709897/View)
 
+## Typografie
+- [Typography: Choosing and using web fonts @ LinkedInLearning](https://www.linkedin.com/learning/search?keywords=typography%20web&u=2132228)
+- [Kennisclip over typografie @ DLO](https://dlo.mijnhva.nl/d2l/le/content/302839/viewContent/709931/View)
+
 ## HyperText Markup Language (HTML)
 - [HTML semantics @ YouTube](https://www.youtube.com/watch?v=n9T2B91hHRM)
 - [Overzicht van HTML elementen @ MDN](https://developer.mozilla.org/nl/docs/Web/HTML/Element)
