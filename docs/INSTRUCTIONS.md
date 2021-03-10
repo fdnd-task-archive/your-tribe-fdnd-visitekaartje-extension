@@ -15,7 +15,9 @@ Na het goed afronden van deze taak, heb je zelf HTML elementen gekozen voor de e
 ## Materiaal
 Hieronder vind je een aantal bronnen en resources die je kunt gebruiken bij het grip krijgen op de in dit voorbeeld gebruikte principes.
 
-## Kleur en beeld
+## Layout en compositie
+https://en.99designs.nl/blog/tips/design-composition-and-layout/
+
 
 ## HyperText Markup Language (HTML)
 - [HTML semantics @ YouTube](https://www.youtube.com/watch?v=n9T2B91hHRM)
