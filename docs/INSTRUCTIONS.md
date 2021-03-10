@@ -17,7 +17,7 @@ Hieronder vind je een aantal bronnen en resources die je kunt gebruiken bij het 
 
 ## Layout en compositie
 - [Korte video over layout en compositie  @ YouTube](https://www.youtube.com/watch?v=a5KYlHNKQB8)
-- [Artikel over layout en compositie](https://en.99designs.nl/blog/tips/design-composition-and-layout/)
+- [Artikel over layout en compositie @ 99designs](https://en.99designs.nl/blog/tips/design-composition-and-layout/)
 
 ## Kleur
 - [Using color to set the site’s mood @ LinkedInLearning 'Design Aesthetics for the Web'](https://www.linkedin.com/learning/design-aesthetics-for-the-web/using-color-to-set-the-site-s-mood?contextUrn=urn%3Ali%3AlyndaLearningPath%3A56e050fb3dd5598244f16b21&u=2132228)
