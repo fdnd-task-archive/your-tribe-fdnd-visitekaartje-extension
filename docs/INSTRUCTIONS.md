@@ -16,7 +16,7 @@ Na het goed afronden van deze taak, heb je zelf HTML elementen gekozen voor de e
 Hieronder vind je een aantal bronnen en resources die je kunt gebruiken bij het grip krijgen op de in dit voorbeeld gebruikte principes.
 
 ## Layout en compositie
-- [Korte video over layout en compositie (video)](https://www.youtube.com/watch?v=a5KYlHNKQB8)
+- [Korte video over layout en compositie](https://www.youtube.com/watch?v=a5KYlHNKQB8)
 - [Artikel over layout en compositie](https://en.99designs.nl/blog/tips/design-composition-and-layout/)
 
 
