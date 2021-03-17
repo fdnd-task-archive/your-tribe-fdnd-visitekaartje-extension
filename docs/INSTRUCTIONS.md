@@ -53,8 +53,8 @@ Bedenk welke content je wil toevoegen. Je kan bijvoorbeeld wat vertellen over je
 Of over allebei.
 
 ### Ontwerpen
-Door het toeveogen van content, is het misschien nodig de lay out te veranderen.
-1. Maak een aantal analoge schetsen waarbij je de indeling aanpast aan de content. Geef in de schetsen aan wat de hiërarchie is en welke elementen bij elkaar horen.
+Door het toevoegen van content, is het misschien nodig de lay out te veranderen.
+1. Maak een aantal analoge schetsen (varieer zoveel mogelijk!) waarbij je de indeling aanpast aan de content. Geef in de schetsen aan wat de hiërarchie is en welke elementen bij elkaar horen.
 2. Kies een of twee van de schetsen waarin de content het beste naar voren komt en pas de HTML en CSS op het nieuwe ontwerp aan.
 3. In de workshops [typografie]() en [kleurtheorie]() heb je een en ander geleerd over hoe je content kan vormgeven. Pas dit toe op de door jou toegevoegde content en zorg hierbij ervoor dat dat wat je toevoegt past bij dat wat er al staat. Kijk ook eens in de bronnen, o.a. die over layout en compositie, die vermeld staan bij 'Materiaal'.
 
