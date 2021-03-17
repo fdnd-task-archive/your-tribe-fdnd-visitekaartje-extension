@@ -1,6 +1,6 @@
 ![Visitekaartje](VisitekaartjeChrome.png "Visitekaartje")
 
-# Net Presence
+# Visitekaartje
 Pas het uitgewerkte visistekaartje aan door content (HTML) toe te voegen, het vorm te geven (met CSS) en/of interactie toe te voegen (met JavaScript). Denk na over wat je nog meer over jezelf wil vertellen naast de informatie die al wordt gepresenteerd. Als extra uitdaging kan je de vormgeving van het visitekaartje aanpassen of de extra informatie bijvoorbeeld 'verbergen' en pas laten verschijnen als je op een (door jou toegevoegde) button klikt Dit kan je oplossen met JavaScript. Probeer het visitekaartje meer van jouzelf te maken!
 
 ## Context
