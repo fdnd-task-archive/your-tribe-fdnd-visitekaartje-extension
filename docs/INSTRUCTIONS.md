@@ -48,7 +48,7 @@ In de ontwerpfase neem je ontwerpbeslissingen en zorg je dat je precies weet wat
 <summary>Aanpak</summary>
   
 1. Hiërarchie bepalen - 
-Pak je (definitieve) ontwerpschets en omcirkel de belangrijkste informatie, belangrijke details en achtergrondinformatie (wat moeten mensen als eerste zien?)
+Pak je (laatste) ontwerpschets en omcirkel de belangrijkste informatie, belangrijke details en achtergrondinformatie (wat moeten mensen als eerste zien?)
 
 2. Variaties schetsen  -
 Schets minimaal 5 verschillende versies waarin je door middel van grootte, kleur/contrast, witruimte en/of positie van de informatie visuele hiêrarchie aanbrengt.
