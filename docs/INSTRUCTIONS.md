@@ -20,9 +20,11 @@ Herontwerp je visitekaartje waarbij je goed rekening houdt met de visuele hiëra
 
 
 ## Doel van deze opdracht
-Je leert wat Visuele hiërarchie is en hoe je het kan toepassen in web design. 
+
+Je leert wat visuele hiërarchie is en hoe je het kan toepassen in web design. 
 
 ## Werkwijze
+
 Volg de fases van de Development lifecycle om jouw visitekaartje te herontwerpen en bouwen.
 
 Deze opdracht gaat over alle fases van de DLC [analyseren](#analyseren), [ontwerpen](#ontwerpen), [bouwen](#bouwen), [integreren](#integreren) en [testen](#testen).
