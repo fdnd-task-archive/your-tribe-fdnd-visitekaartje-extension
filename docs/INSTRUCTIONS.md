@@ -1,7 +1,7 @@
 
 # Visitekaartje
 
-Verbeter het Visual Interface Design van je visitekaartje door Visuele hiërarchie en typografische principes toe te passen. 
+Verbeter het Visual Interface Design van je visitekaartje door visuele hiërarchie en typografische principes toe te passen. 
 
 ## Context
 
