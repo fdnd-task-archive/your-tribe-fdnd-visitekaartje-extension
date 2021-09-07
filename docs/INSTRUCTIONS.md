@@ -75,7 +75,9 @@ In de bouwfase realiseer je de beslissingen uit de ontwerpfase in HTML, CSS en J
 Visuele hiërarchie toepassen op je visitekaartje.
 
 
-1. Kies een van de variaties die je hebt geschetst in e ontwerpfase en probeer dit te bouwen met CSS. 
+  1. Fork deze repo en clone de code naar je computer
+  2. Neem de HTML, CSS en/of JS over van je experiment taak en voeg die toe aan deze extension taak. 
+  3. Kies een van de variaties die je hebt geschetst in de ontwerpfase en probeer dit te bouwen met CSS. 
 
 
 #### Materiaal bouwfase
