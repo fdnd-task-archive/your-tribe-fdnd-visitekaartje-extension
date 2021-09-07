@@ -1,11 +1,11 @@
 
 # Visitekaartje
 
-Verbeter het Visual Interface Design van je visitekaartje door vormgevings en interactie principes zoals kleur, contrast en typografie toe te passen. 
+Verbeter het Visual Interface Design van je visitekaartje door Visuele hiërarchie en typografissshe principes toe te passen. 
 
 ## Context
 
-Deze leertaak hoort bij sprint 1 "Your Tribe"}. Dit is een uitbreidings taak die je individueel uitvoert.
+Deze leertaak hoort bij sprint 1 "Your Tribe". Dit is een _extension_ taak die je individueel uitvoert.
 
 
 ## Briefing
